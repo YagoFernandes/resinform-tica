@@ -1,0 +1,58 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Simplewall</title>
+<link href='https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,900' rel='stylesheet' type='text/css'>
+<style type='text/css'> 
+body { 
+width:  70%;
+height: 100%; 
+background-color: #003984; 
+margin: 5% auto auto auto; 
+} 
+h4 { 
+color : #585db1; 
+margin: 1% auto auto auto; 
+} 
+h5 { 
+color : #585db1; 
+margin: 1% auto auto auto;
+} 
+#isi {
+margin:auto;
+background-color: #003984; 
+border-radius: 5px; 
+text-align: center; 
+width:500px;
+padding:0px;
+font-family: 'Raleway', sans-serif;
+font-weight: 300;
+position:absolute;
+top:50%;
+margin-top:-200px;
+left:50%;
+margin-left:-260px;
+} 
+#isi h4{ font-weight: 300;font-size: 44px; color: #fff; padding:20px 30px; padding-bottom:0px;}
+</style> 
+</head>
+<body>
+<div id='isi'>
+<div style="padding-top:30px"><img src="http://www.simplewallsoftware.com/images/lock1.png" alt="ACESSO NEGADO"> </div>
+<h4>ACESSO NEGADO</h4>
+<div style='letter-spacing:1px; font-size:14px; padding:40px 40px; color:#e2f0fe; padding-bottom:0px'> <span style='color:#e2f0fe'
+'>              Timestamp: <span>2017-09-29T17:21:47+00:00 <br><br>
+                Under: <span>%t category.<br><br>
+		URL:<span>%u%p </div>
+<div style='letter-spacing:1.5px; font-size:16px; padding:10px 40px; color:#e2f0fe'>Para liberacao de acesso, entre em contato com a Nilzete</div>
+<div style='font-size:12px; letter-spacing:1px; color:#c5e1fe; border-top:1px rgba(255,255,255,0.2) solid; padding-top:15px;
+padding-bottom:20px; margin-top:40px; border-radius:0px 0px 3px 3px'> Your Network is protected by Simplewall</div>
+</div>
+</body>
+</html>
+
+
+
+
